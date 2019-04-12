@@ -35,11 +35,10 @@ class Discount extends Component {
           </Fade>
           <Slide right>
             <div className="discount_description">
-              <h3>Purchase tickets before 20th March</h3>
+              <h3>Purchase tickets before 20th May</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit
-                temporibus perferendis totam maxime aperiam eligendi et, animi
-                consectetur tempora. Praesentium.
+                Need Ariana Grande's concert tickets? Nice! You have come to the
+                right place! Start your concert ticket shopping here & save!
               </p>
               <MyButton
                 text="Purchase Tickets"
